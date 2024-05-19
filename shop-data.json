@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name":" Black Warrior Tank Top",
+        "price": 2000,
+        "image": "images/Featured-Items/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Black Slim Fit Shirt",
+        "price": 2500,
+        "image": "images/Featured-Items/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Simple Black Slim Fit Shirt",
+        "price": 2900,
+        "image": "images/Featured-Items/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Full Sleeves Black Slim Fit Shirt",
+        "price": 2000,
+        "image": "images/Featured-Items/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Black Slim Fit Shirt",
+        "price": 3000,
+        "image": "images/Featured-Items/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Black-Gray Full Sleeves Slim Fit Shirt",
+        "price": 2000,
+        "image": "images/Featured-Items/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Black Slim Fit Shirt",
+        "price": 1500,
+        "image": "images/Featured-Items/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Full Sleeves Black Slim Fit Shirt",
+        "price": 1000,
+        "image": "images/Featured-Items/8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" White Fitted Shirt",
+        "price": 2000,
+        "image": "images/Featured-Items/9.jpg"
+    },
+    {
+        "id": 10,
+        "name":" Black Slim Fitted Shirt",
+        "price": 2500,
+        "image": "images/Featured-Items/10.jpg"
+    },
+    {
+        "id": 11,
+        "name":" Simple Black Shirt",
+        "price": 2900,
+        "image": "images/Featured-Items/11.jpg"
+    },
+    {
+        "id": 12,
+        "name":" White Rise'N Grind Tank Top",
+        "price": 2000,
+        "image": "images/Featured-Items/12.jpg"
+    },
+    {
+        "id": 13,
+        "name":" Full Sleeves Black Slim Fit Shirt",
+        "price": 3000,
+        "image": "images/Featured-Items/13.jpg"
+    },
+    {
+        "id": 14,
+        "name":" Black Slim Fit Shirt",
+        "price": 2000,
+        "image": "images/Featured-Items/14.jpg"
+    },
+    {
+        "id": 15,
+        "name":" White Tank Top",
+        "price": 1500,
+        "image": "images/Featured-Items/15.jpg"
+    },
+    {
+        "id": 16,
+        "name":" Black Stringer",
+        "price": 1000,
+        "image": "images/Featured-Items/16.jpg"
+    }
+
+]

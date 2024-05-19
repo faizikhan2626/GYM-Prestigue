@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":" Black Warrior Tank Top",
+        "price": 2000,
+        "image": "images/Featured-Items/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Black Slim Fit Shirt",
+        "price": 2500,
+        "image": "images/Featured-Items/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Simple Black Slim Fit Shirt",
+        "price": 2900,
+        "image": "images/Featured-Items/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Full Sleeves Black Slim Fit Shirt",
+        "price": 2000,
+        "image": "images/Featured-Items/4.jpg"
+    }
+]
